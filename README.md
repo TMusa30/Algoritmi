@@ -20,4 +20,5 @@ Program se pokreće iz command prompt-a ili terminala koristeći Python i zahtij
 3. "python solution.py --alg astar --ss istra.txt --h istra_heuristic.txt"
 
    
+![image](https://github.com/user-attachments/assets/2301a16d-4988-4ff2-9bf0-fc517e3be13a)
 
