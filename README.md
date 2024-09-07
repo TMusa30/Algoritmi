@@ -19,7 +19,7 @@ Program se pokreće iz command prompt-a ili terminala koristeći Python i zahtij
    
 3. "python solution.py --alg astar --ss istra.txt --h istra_heuristic.txt"
 
-Slika istra.txt :
+Slika istra.txt !
 ![image](https://github.com/user-attachments/assets/65203c5f-24a2-4d4d-8428-8a278e5eb5bd)
 
 
